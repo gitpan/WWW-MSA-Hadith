@@ -1,12 +1,12 @@
 package WWW::MSA::Hadith;
 
-# $Id: Hadith.pm,v 1.2 2003/06/15 17:02:24 sherzodr Exp $
+# $Id: Hadith.pm,v 1.3 2003/06/21 09:03:22 sherzodr Exp $
 
 use strict;
 use Carp;
 use vars qw($VERSION $PROXY $HADITH_URLF);
 
-$VERSION     = '1.00';
+$VERSION     = '1.01';
 $PROXY       = 'http://www.usc.edu/cgi-bin/msasearch';
 $HADITH_URLF = 'http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/%s/%03d.sbt.html';
 

@@ -1,5 +1,8 @@
 Revision history for Perl extension WWW::MSA::Hadith.
 
+1.01  Staurday, June 21, 2003
+	- Makefile.PL fixed.
+
 1.00  Sunday, June 15, 2003
 	- first public release
 
@@ -9,4 +12,5 @@ Revision history for Perl extension WWW::MSA::Hadith.
 
 
 
-$Revision: 1.2 $
+$Revision: 1.3 $
+

@@ -4,5 +4,6 @@ use ExtUtils::MakeMaker;
 WriteMakefile(
     'NAME'		=> 'WWW::MSA::Hadith',
     'VERSION_FROM'	=> 'Hadith.pm',
-    'PREREQ_PM'		=> {'LWP::UserAgent' => undef}
+    'PREREQ_PM'		=> {'LWP::UserAgent' => 0, 'HTML::TreeBuilder'=>0}
 );
+
