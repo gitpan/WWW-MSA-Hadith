@@ -1,0 +1,12 @@
+Revision history for Perl extension WWW::MSA::Hadith.
+
+1.00  Sunday, June 15, 2003
+	- first public release
+
+0.01  Friday, June 13  2003
+	- original version; created by h2xs 1.21 with options
+		-AXn WWW::MSA::Hadith
+
+
+
+$Revision: 1.2 $
